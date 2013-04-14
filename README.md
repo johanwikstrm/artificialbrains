@@ -1,7 +1,7 @@
 artificialbrains
 ================
 
-Simulation of artificial brains using neural networks.
+Simulation of artificial brains and evolution using genetic algorithms.
 
 This code was intended to do simulations, not to be a beautiful masterpiece of code. Use it on your own risk ;-)
 
